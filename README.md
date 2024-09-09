@@ -1,1 +1,1 @@
-# odin_landing_page
+This is a generic web landing page using HTML and flexbox in CSS.
